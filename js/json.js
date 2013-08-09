@@ -39,7 +39,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "legendary"],
 		"sellValue" 		: ["Sell Value:", "300"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-24"],
-		"droppedFrom" 		: ["Dropped From:", "Dark Butcher"]
+		"droppedFrom" 		: ["Dropped From:", "Dark Butcher2"]
 	},
 	"item5" : {
 		"archetype" 		: ["Archetype:", "Rogue"],
@@ -49,7 +49,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "magical"],
 		"sellValue" 		: ["Sell Value:", "350"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-22"],
-		"droppedFrom" 		: ["Dropped From:", "Sneaky  McDodge 'n Stuff"]
+		"droppedFrom" 		: ["Dropped From:", "Sneaky  McDodge 'n Stuff2"]
 	},
 	"item6" : {
 		"archetype" 		: ["Archetype:", "Mage"],
@@ -59,7 +59,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "legendary"],
 		"sellValue" 		: ["Sell Value:", "300"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-23"],
-		"droppedFrom" 		: ["Dropped From:", "That one guy who did bad things"]
+		"droppedFrom" 		: ["Dropped From:", "That one guy who did bad things2"]
 	},
 	"item7" : {
 		"archetype" 		: ["Archetype:", "Warrior"],
@@ -69,7 +69,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "legendary"],
 		"sellValue" 		: ["Sell Value:", "300"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-24"],
-		"droppedFrom" 		: ["Dropped From:", "Dark Butcher"]
+		"droppedFrom" 		: ["Dropped From:", "Dark Butcher3"]
 	},
 	"item8" : {
 		"archetype" 		: ["Archetype:", "Rogue"],
@@ -79,7 +79,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "magical"],
 		"sellValue" 		: ["Sell Value:", "350"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-22"],
-		"droppedFrom" 		: ["Dropped From:", "Sneaky  McDodge 'n Stuff"]
+		"droppedFrom" 		: ["Dropped From:", "Sneaky  McDodge 'n Stuff3"]
 	},
 	"item9" : {
 		"archetype" 		: ["Archetype:", "Mage"],
@@ -89,7 +89,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "legendary"],
 		"sellValue" 		: ["Sell Value:", "300"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-23"],
-		"droppedFrom" 		: ["Dropped From:", "That one guy who did bad things"]
+		"droppedFrom" 		: ["Dropped From:", "That one guy who did bad things3"]
 	},
 	"item10" : {
 		"archetype" 		: ["Archetype:", "Warrior"],
@@ -99,7 +99,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "legendary"],
 		"sellValue" 		: ["Sell Value:", "300"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-24"],
-		"droppedFrom" 		: ["Dropped From:", "Dark Butcher"]
+		"droppedFrom" 		: ["Dropped From:", "Dark Butcher4"]
 	},
 	"item11" : {
 		"archetype" 		: ["Archetype:", "Rogue"],
@@ -109,7 +109,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "magical"],
 		"sellValue" 		: ["Sell Value:", "350"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-22"],
-		"droppedFrom" 		: ["Dropped From:", "Sneaky  McDodge 'n Stuff"]
+		"droppedFrom" 		: ["Dropped From:", "Sneaky  McDodge 'n Stuff4"]
 	},
 	"item12" : {
 		"archetype" 		: ["Archetype:", "Mage"],
@@ -119,7 +119,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "legendary"],
 		"sellValue" 		: ["Sell Value:", "300"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-23"],
-		"droppedFrom" 		: ["Dropped From:", "That one guy who did bad things"]
+		"droppedFrom" 		: ["Dropped From:", "That one guy who did bad things4"]
 	},
 	"item13" : {
 		"archetype" 		: ["Archetype:", "Warrior"],
@@ -129,7 +129,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "legendary"],
 		"sellValue" 		: ["Sell Value:", "300"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-24"],
-		"droppedFrom" 		: ["Dropped From:", "Dark Butcher"]
+		"droppedFrom" 		: ["Dropped From:", "Dark Butcher5"]
 	},
 	"item14" : {
 		"archetype" 		: ["Archetype:", "Rogue"],
@@ -139,7 +139,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "magical"],
 		"sellValue" 		: ["Sell Value:", "350"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-22"],
-		"droppedFrom" 		: ["Dropped From:", "Sneaky  McDodge 'n Stuff"]
+		"droppedFrom" 		: ["Dropped From:", "Sneaky  McDodge 'n Stuff5"]
 	},
 	"item15" : {
 		"archetype" 		: ["Archetype:", "Mage"],
@@ -149,7 +149,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "legendary"],
 		"sellValue" 		: ["Sell Value:", "300"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-23"],
-		"droppedFrom" 		: ["Dropped From:", "That one guy who did bad things"]
+		"droppedFrom" 		: ["Dropped From:", "That one guy who did bad things5"]
 	},
 	"item16" : {
 		"archetype" 		: ["Archetype:", "Warrior"],
@@ -159,7 +159,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "legendary"],
 		"sellValue" 		: ["Sell Value:", "300"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-24"],
-		"droppedFrom" 		: ["Dropped From:", "Dark Butcher"]
+		"droppedFrom" 		: ["Dropped From:", "Dark Butcher6"]
 	},
 	"item17" : {
 		"archetype" 		: ["Archetype:", "Rogue"],
@@ -169,7 +169,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "magical"],
 		"sellValue" 		: ["Sell Value:", "350"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-22"],
-		"droppedFrom" 		: ["Dropped From:", "Sneaky  McDodge 'n Stuff"]
+		"droppedFrom" 		: ["Dropped From:", "Sneaky  McDodge 'n Stuff6"]
 	},
 	"item18" : {
 		"archetype" 		: ["Archetype:", "Mage"],
@@ -179,7 +179,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "legendary"],
 		"sellValue" 		: ["Sell Value:", "300"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-23"],
-		"droppedFrom" 		: ["Dropped From:", "That one guy who did bad things"]
+		"droppedFrom" 		: ["Dropped From:", "That one guy who did bad things6"]
 	},
 	"item19" : {
 		"archetype" 		: ["Archetype:", "Warrior"],
@@ -189,7 +189,7 @@ var jsonData = {
 		"quality" 			: ["Quality:", "legendary"],
 		"sellValue" 		: ["Sell Value:", "300"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-24"],
-		"droppedFrom" 		: ["Dropped From:", "Dark Butcher"]
+		"droppedFrom" 		: ["Dropped From:", "Dark Butcher7"]
 	},
 	"item20" : {
 		"archetype" 		: ["Archetype:", "Rogue"],
@@ -199,6 +199,6 @@ var jsonData = {
 		"quality" 			: ["Quality:", "magical"],
 		"sellValue" 		: ["Sell Value:", "350"],
 		"dateStashed" 		: ["Date Stashed:", "2013-06-22"],
-		"droppedFrom" 		: ["Dropped From:", "Sneaky  McDodge 'n Stuff"]
+		"droppedFrom" 		: ["Dropped From:", "Sneaky  McDodge 'n Stuff7"]
 	}
 }
