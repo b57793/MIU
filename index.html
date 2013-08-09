@@ -3,21 +3,42 @@
 
 <html>
 	<head>
-		<title>The One and Only SK!</title>
+		<title>The One and Only Stash Keeper!</title>
 		<meta charset="utf-8" />
-		<meta id="description" content="My 1st HTML 5 CRUD" />
-		<meta id="keywords" content="html5, mobile development, project 1, adventurer's stash keeper" />
+		<meta id="description" content="MIU 1308" />
+		<meta id="keywords" content="html5, mobile development, adventurer's stash keeper" />
 		<meta name="robots" content="noindex, nofollow" />
 		<meta name="viewport" content="user-scalable=no, width=device-width" />
-
 		<link href="css/styles.css" rel="stylesheet" />
 	</head>
 	<body>
-		<h1>Stash Keeper</h1>			
-		<p> This is an app to help adventurers keep up with their loot!</p>
-		<h2>Log your loot!</h2>
-	<footer>
-		<p><a href="additem.html">Add an item</a></p>
-	</footer>					
+		<h1>Stash Keeper</h1>
+		<div id="container" style="width:300px">
+	 		<div id="cta1" style="float:left; width:200px; height:200px">
+	 		</div>
+				<div id="cta2" style="float:right; width:100px; height:200px">
+					<h2 style="padding-top:15px">Update your stash!</h2>
+					<form method="get" action="additem.html">
+					   <button type="submit" style="align:center; margin-left:20px">Stash It!</button>
+					</form>
+				</div>
+		 		<div id="searchbox">
+					<form id="stashsearch" method="get" action="http://www.google.com">
+						<input type="text" class="textinput" name="q" size="27" maxlength="120">
+						<input id="findbutton" type="submit" value="Search" class="searchbutton">
+					</form>
+				</div>	
+			<div id="titlesection" style="clear:both"> 
+				<p id="titlepara">Browse Categories</p>
+			</div> 
+			<div id="browse" style="clear:both" >
+				<div id="browsemenu">
+				<a href="additem.html"><img src="img\name.gif"></a>
+				<a href="additem.html"><img src="img\archetype.gif"></a>
+				<a href="additem.html"><img src="img\type.gif"></a>
+				<a href="additem.html"><img src="img\classification.gif"></a>
+				<a href="additem.html"><img src="img\quality.gif"></a>
+				</div> 
+			</div>
+		</div>
 	</body>
-</html>
